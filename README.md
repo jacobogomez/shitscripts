@@ -1,2 +1,2 @@
-# mierdiscripts
-Scripts de dudosa calidad para cualquier cosa
+# 💩scripts
+Scripts of dubious quality for anything
